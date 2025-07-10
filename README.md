@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-I'm a results-driven data scientist with 16+ years of experience designing and deploying AI/ML systems across industries like **Oil & Gas, Manufacturing, Insurance, and Retail**. I specialize in:
+I am a results driven data scientist with 16+ years of experience designing and deploying AI/ML systems across industries like **Oil & Gas, Manufacturing, Insurance, and Retail**. I specialize in:
 
 - **Machine Learning & Deep Learning**
 - **Cloud AI (Azure ML, AWS Sagemaker)**
