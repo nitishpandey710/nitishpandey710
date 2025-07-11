@@ -44,10 +44,10 @@ Here are some projects that reflect my recent work and interests:
 ###  Blog & Resources
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitish-pandey-625b4919/)  
-- 📝 [Medium Blog (Coming soon)]  
 
 
-### 📬 Let’s Connect
+
+###  Let’s Connect
 
 I am open to AI consulting, product collaborations, and AI innovation projects.  
 Feel free to connect on (https://www.linkedin.com/in/nitish-pandey-625b4919/) or drop a message here!
